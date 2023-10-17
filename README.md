@@ -17,7 +17,7 @@ Socal is a social calendar platform designed for you and your friends. It enable
 
 ### Prerequisites
 
-To run the Convene app, you have two options:
+To run the Socal app, you have two options:
 
 1. **Local Device:**
    - Download the Expo Go app on your physical device.
